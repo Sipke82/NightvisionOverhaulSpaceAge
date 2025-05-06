@@ -1,0 +1,19 @@
+{
+  "name": "NightvisionOverhaulSpaceAge",
+  "version": "0.6.3",
+  "title": "Nightvision Overhaul Space Age",
+  "author": "NOiZE",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0.0",
+    "space-age >= 2.0.0",
+    "? diurnal-dynamics",
+    "? leave_the_lights_on",
+    "? realistic-flashlight-fixed",
+    "? Pro-Flashlight"
+  ],
+  "description": "Replaces nightvision with a halo light effect around the character, with customizable color, intensity, and scale. Adds Nightvision MK2 and MK3 for progression in Space Age.",
+  "credits": "Icons for nightvision-mk2 and nightvision-mk3 from Nightvision Progression by xCrane, forked by Lebothegizebo (MIT license)"
+}
