@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.6.4
+Date: 05. 05. 2025
+  Changes:
+	- Made compatible with base game, thus now renamed to Nightvision Overhaul
+	- Fixed that production science was required instead of utility science
+	- Added option to unlock MK2 at Fulgora
+
+---------------------------------------------------------------------------------------------------
+Version: 0.6.3
+Date: 05. 05. 2025
+  Changes:
+    - Initial Release
